@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/react-scoreboard.iml" filepath="$PROJECT_DIR$/.idea/react-scoreboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/react-exercise.iml" filepath="$PROJECT_DIR$/.idea/react-exercise.iml" />
     </modules>
   </component>
 </project>
